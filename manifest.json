@@ -1,0 +1,37 @@
+{
+    "name": "It is all students.",
+    "short_name": "My student data",
+    "description": "This app loves student",
+    "display": "standalone",
+    "background_color" : "#ffffff",
+    "theme_color": "#d676ff",
+    "icons" : [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "morten.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "nina.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "olivia.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+        
+    ],
+    "start_url": "/students/index.html"
+}
